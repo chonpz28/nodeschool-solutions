@@ -1,2 +1,0 @@
-# learnyounode-solutions
-Learnyounode Solutions

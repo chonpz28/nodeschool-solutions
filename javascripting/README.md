@@ -1,2 +1,0 @@
-# javascripting-solutions
-Javascripting Solutions
